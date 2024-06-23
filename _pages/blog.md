@@ -16,6 +16,7 @@ pagination:
     after: 3 # The number of links after the current page
 ---
 
+<!-- removed <p><small>{{ site.blog_description }}</small></p> from blog title header -->
 <div class="post">
 
 {% assign blog_name_size = site.blog_name | size %}
@@ -24,12 +25,11 @@ pagination:
 {% if blog_name_size > 0 or blog_description_size > 0 %}
 
   <div class="header-bar">
-    <h1>{{ site.blog_name }}</h1>
-    <h2>{{ site.blog_description }}</h2>
+    <h2>{{ site.blog_name }}</h2> 
   </div>
   {% endif %}
 
-{% if site.display_tags or site.display_categories %}
+<!-- {% if site.display_tags or site.display_categories %}
 
   <div class="tag-category-list">
     <ul class="p-0 m-0">
@@ -54,7 +54,7 @@ pagination:
       {% endfor %}
     </ul>
   </div>
-  {% endif %}
+  {% endif %} -->
 
 {% assign featured_posts = site.posts | where: "featured", "true" %}
 {% if featured_posts.size > 0 %}
