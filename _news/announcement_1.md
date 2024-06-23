@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Submitted my Master's Thesis :relaxed:
+Submitted my Masters Thesis :relaxed:
