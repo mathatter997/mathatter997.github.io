@@ -18,4 +18,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello! I went University of Virginia for undergrad. I double majored in Math and Computer Science. Currently getting my MPhil in Computer Science at Cambridge. My interests lie in hardware-aware program design, theory of deep learing, diffusion, and LLMS ;). Of course, I also like math and proof formalization.
+Hello! I went University of Virginia for undergrad. I double majored in Math and Computer Science. I got my MPhile in Computer Science at Cambridge. My interests lie in hardware-aware program design, theory of deep learing, diffusion, and LLMS ;). Of course, I also like math and proof formalization.

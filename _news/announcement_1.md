@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-06-03 15:59:00-0400
+date: 2024-06-04 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Submitted my Masters Thesis :relaxed:
+Graduated with **Distinction** :smiley: 
